@@ -172,6 +172,10 @@ menu{
     background-color: #562A7A;
 }
 
+img {
+    margin-top: -15px;
+}
+
 button{
     display: none;
 }
